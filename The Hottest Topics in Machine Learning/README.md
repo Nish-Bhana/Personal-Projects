@@ -9,3 +9,9 @@ In particular this project utilise the following  interesting "method (libraries
 - Wordcloud (wordcloud): Visualising words in text data. Words with most number of occurences appear larger.
 - Latent Dirichlet Allocation (Sklearn): Method used in NLP to determine topics in a large set of documents.
 - Regular Experssions (re): Useful in pre-processing data for NLP due to flexible nature of pattern matching with strings.
+
+## Additional Resources
+- [sklearn Latent Dirichlet Allocation Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
+- [wordcloud Library Github Page](https://github.com/amueller/word_cloud)
+- [re Library Documentation](https://docs.python.org/3/library/re.html#)
+    - [re Quick Overview](https://www.w3schools.com/python/python_regex.asp)
